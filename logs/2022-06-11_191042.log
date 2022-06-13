@@ -1,0 +1,57 @@
+[INFO ] 11-06-2022 19:10:52 [main] Log - Test case: add2SanPhamKhacNhauVaoGioHang test is starting...
+[INFO ] 11-06-2022 19:10:52 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 11-06-2022 19:11:02 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 11-06-2022 19:11:07 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 1
+[INFO ] 11-06-2022 19:11:07 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 11-06-2022 19:11:09 [main] Log - [Click] vào By.xpath: //div[@class='ty-logo-container']//img
+[INFO ] 11-06-2022 19:11:11 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 11-06-2022 19:11:19 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 11-06-2022 19:11:22 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 1
+[INFO ] 11-06-2022 19:11:22 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 11-06-2022 19:11:23 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/a[1])[2] với value: Đồ Bộ Cho Bé Trai Tay Ngắn In Hình Sành Điệu Size Đại Cồ (5 - 13 tuổi)
+[INFO ] 11-06-2022 19:11:23 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/div/span)[2] với value: 179.000
+[INFO ] 11-06-2022 19:11:23 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/a[1])[1] với value: Quần Jean Dài Cho Bé Gái Ống Loe Sành Điệu Size Đại (6 - 11 tuổi)
+[INFO ] 11-06-2022 19:11:23 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/div/span)[1] với value: 189.000
+[INFO ] 11-06-2022 19:11:23 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')] với value: 2 sản phẩm
+[INFO ] 11-06-2022 19:11:23 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')]/following-sibling::td/span/span với value: 368.000
+[INFO ] 11-06-2022 19:11:23 [main] Log - Test case: add2SanPhamKhacNhauVaoGioHang is passed.
+[INFO ] 11-06-2022 19:11:28 [main] Log - Test case: add2SanPhamVaoGioHang test is starting...
+[INFO ] 11-06-2022 19:11:28 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 11-06-2022 19:11:30 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 11-06-2022 19:11:31 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 2
+[INFO ] 11-06-2022 19:11:31 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 11-06-2022 19:11:33 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/a[1])[1] với value: Đồ Bộ Cho Bé Trai Tay Ngắn In Hình Sành Điệu Size Đại Cồ (5 - 13 tuổi)
+[INFO ] 11-06-2022 19:11:33 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/div/span)[1] với value: 179.000
+[INFO ] 11-06-2022 19:11:33 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')] với value: 2 sản phẩm
+[INFO ] 11-06-2022 19:11:33 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')]/following-sibling::td/span/span với value: 358.000
+[INFO ] 11-06-2022 19:11:33 [main] Log - Test case: add2SanPhamVaoGioHang is passed.
+[INFO ] 11-06-2022 19:11:38 [main] Log - Test case: addMotSanPhamVaoGioHang test is starting...
+[INFO ] 11-06-2022 19:11:38 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 11-06-2022 19:11:39 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 11-06-2022 19:11:41 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 1
+[INFO ] 11-06-2022 19:11:41 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 11-06-2022 19:11:43 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/a[1])[1] với value: Đồ Bộ Cho Bé Trai Tay Ngắn In Hình Sành Điệu Size Đại Cồ (5 - 13 tuổi)
+[INFO ] 11-06-2022 19:11:43 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/div/span)[1] với value: 179.000
+[INFO ] 11-06-2022 19:11:43 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')] với value: 1 sản phẩm
+[INFO ] 11-06-2022 19:11:43 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')]/following-sibling::td/span/span với value: 179.000
+[INFO ] 11-06-2022 19:11:43 [main] Log - Test case: addMotSanPhamVaoGioHang is passed.
+[INFO ] 11-06-2022 19:11:47 [main] Log - Test case: addSanPham2LanVaoGioHang test is starting...
+[INFO ] 11-06-2022 19:11:47 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 11-06-2022 19:11:49 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 11-06-2022 19:11:51 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 1
+[INFO ] 11-06-2022 19:11:51 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 11-06-2022 19:11:52 [main] Log - [Click] vào By.xpath: //div[@class='ty-logo-container']//img
+[INFO ] 11-06-2022 19:11:54 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 11-06-2022 19:11:55 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 11-06-2022 19:11:57 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 1
+[INFO ] 11-06-2022 19:11:57 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 11-06-2022 19:11:58 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/a[1])[1] với value: Đồ Bộ Cho Bé Trai Tay Ngắn In Hình Sành Điệu Size Đại Cồ (5 - 13 tuổi)
+[INFO ] 11-06-2022 19:11:58 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/div/span)[1] với value: 179.000
+[INFO ] 11-06-2022 19:11:58 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')] với value: 2 sản phẩm
+[INFO ] 11-06-2022 19:11:58 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')]/following-sibling::td/span/span với value: 358.000
+[INFO ] 11-06-2022 19:11:58 [main] Log - Test case: addSanPham2LanVaoGioHang is passed.
+[INFO ] 11-06-2022 19:12:03 [main] Log - Test case: verifyGioHangChuaCoSP test is starting...
+[INFO ] 11-06-2022 19:12:03 [main] Log - [Click] vào By.xpath: //div[contains(@class,'babi-cart')]
+[INFO ] 11-06-2022 19:12:03 [main] Log - [Verify Element text] của: By.xpath: //div[@class='ty-cart-items']/div với value: Bạn chưa thêm sản phẩm vào Giỏ
+[INFO ] 11-06-2022 19:12:03 [main] Log - Test case: verifyGioHangChuaCoSP is passed.
+[INFO ] 11-06-2022 19:12:04 [main] Log - End suite testing Test

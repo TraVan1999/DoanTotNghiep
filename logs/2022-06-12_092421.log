@@ -1,0 +1,46 @@
+[INFO ] 12-06-2022 09:24:36 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 12-06-2022 09:24:44 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 12-06-2022 09:24:47 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 1
+[INFO ] 12-06-2022 09:24:48 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 12-06-2022 09:24:49 [main] Log - [Click] vào By.xpath: //div[@class='ty-logo-container']//img
+[INFO ] 12-06-2022 09:24:52 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 12-06-2022 09:25:00 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 12-06-2022 09:25:02 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 1
+[INFO ] 12-06-2022 09:25:02 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 12-06-2022 09:25:04 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/a[1])[2] với value: Đồ Bộ Cho Bé Trai Tay Ngắn In Hình Sành Điệu Size Đại Cồ (5 - 13 tuổi)
+[INFO ] 12-06-2022 09:25:04 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/div/span)[2] với value: 179.000
+[INFO ] 12-06-2022 09:25:04 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/a[1])[1] với value: Quần Jean Dài Cho Bé Gái Ống Loe Sành Điệu Size Đại (6 - 11 tuổi)
+[INFO ] 12-06-2022 09:25:04 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/div/span)[1] với value: 189.000
+[INFO ] 12-06-2022 09:25:04 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')] với value: 2 sản phẩm
+[INFO ] 12-06-2022 09:25:04 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')]/following-sibling::td/span/span với value: 368.000
+[INFO ] 12-06-2022 09:25:11 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 12-06-2022 09:25:12 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 12-06-2022 09:25:13 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 2
+[INFO ] 12-06-2022 09:25:14 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 12-06-2022 09:25:15 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/a[1])[1] với value: Đồ Bộ Cho Bé Trai Tay Ngắn In Hình Sành Điệu Size Đại Cồ (5 - 13 tuổi)
+[INFO ] 12-06-2022 09:25:15 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/div/span)[1] với value: 179.000
+[INFO ] 12-06-2022 09:25:15 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')] với value: 2 sản phẩm
+[INFO ] 12-06-2022 09:25:15 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')]/following-sibling::td/span/span với value: 358.000
+[INFO ] 12-06-2022 09:25:20 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 12-06-2022 09:25:21 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 12-06-2022 09:25:23 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 1
+[INFO ] 12-06-2022 09:25:23 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 12-06-2022 09:25:24 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/a[1])[1] với value: Đồ Bộ Cho Bé Trai Tay Ngắn In Hình Sành Điệu Size Đại Cồ (5 - 13 tuổi)
+[INFO ] 12-06-2022 09:25:24 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/div/span)[1] với value: 179.000
+[INFO ] 12-06-2022 09:25:24 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')] với value: 1 sản phẩm
+[INFO ] 12-06-2022 09:25:24 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')]/following-sibling::td/span/span với value: 179.000
+[INFO ] 12-06-2022 09:25:29 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 12-06-2022 09:25:30 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 12-06-2022 09:25:33 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 1
+[INFO ] 12-06-2022 09:25:33 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 12-06-2022 09:25:34 [main] Log - [Click] vào By.xpath: //div[@class='ty-logo-container']//img
+[INFO ] 12-06-2022 09:25:36 [main] Log - Set text của By.id: search_input roi Enter
+[INFO ] 12-06-2022 09:25:36 [main] Log - [Click] vào By.xpath: (//form[contains(@name,'product_form')]/div[1])[1]
+[INFO ] 12-06-2022 09:25:38 [main] Log - [SelectOption] By.xpath: //div[contains(@class,'choice-quantity')]//select by text 1
+[INFO ] 12-06-2022 09:25:38 [main] Log - [Click] vào By.xpath: //div[contains(@class,'add-cart-button')]//button
+[INFO ] 12-06-2022 09:25:39 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/a[1])[1] với value: Đồ Bộ Cho Bé Trai Tay Ngắn In Hình Sành Điệu Size Đại Cồ (5 - 13 tuổi)
+[INFO ] 12-06-2022 09:25:39 [main] Log - [Verify Element text] của: By.xpath: (//li[contains(@class,'ty-order-products__item')]/div/span)[1] với value: 179.000
+[INFO ] 12-06-2022 09:25:39 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')] với value: 2 sản phẩm
+[INFO ] 12-06-2022 09:25:39 [main] Log - [Verify Element text] của: By.xpath: //tbody/tr/td[contains(text(),'sản phẩm')]/following-sibling::td/span/span với value: 358.000
+[INFO ] 12-06-2022 09:25:44 [main] Log - [Click] vào By.xpath: //div[contains(@class,'babi-cart')]
+[INFO ] 12-06-2022 09:25:44 [main] Log - [Verify Element text] của: By.xpath: //div[@class='ty-cart-items']/div với value: Bạn chưa thêm sản phẩm vào Giỏ

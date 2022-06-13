@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite">
+
+    <listeners>
+        <listener class-name="common.TestListener"></listener>
+    </listeners>
+
+    <test name="Test">
+        <classes>
+            <class name="testcases.DangNhap.DangNhapWebBanHang">
+            </class>
+            <class name="testcases.ThanhToan.GioHang">
+            </class>
+            <class name="testcases.DangKy.DangKy">
+            </class>
+            <class name="testcases.TimKiem.Timkiem">
+            </class>
+        </classes>
+    </test>
+</suite>
